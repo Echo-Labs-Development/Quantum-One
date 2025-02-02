@@ -6,6 +6,7 @@
 - Buildable for anyone
 - 220x220 minium build space
 - Most Parts Printable
+- Dosen't Start On Fire
 
 ## Specifications
 - Core-XY
