@@ -15,9 +15,9 @@
 ## Time Log
 | Date | Time |
 | -------- | -------- |
-| 2.1.25 | 1 Hour |
+| 2.1.25 | 2 Hours |
 
-### Total Hours: 1 Hour
+### Total Hours: 2 Hours
 
 ## BOM
  | Item Name | Link | Quanity | Price |
