@@ -10,3 +10,6 @@
 ## Specifications
 - Core-XY
 - Klipper Powered
+
+## Time Log
+Only a little bit. More to come.
