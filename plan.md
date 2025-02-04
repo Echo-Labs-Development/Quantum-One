@@ -17,9 +17,9 @@
 | -------- | -------- |
 | 2.1.25 | 2 Hours |
 | 2.2.25 | 4 Hours |
-| 2.3.25 | 2 Hours |
+| 2.3.25 | 3 Hours |
 
-### Total Hours: 8 Hours
+### Total Hours: 9 Hours
 
 ## BOM
  | Item Name | Link | Quanity | Price |
@@ -48,3 +48,9 @@ All Prices USD. Shiping and Tax Not Included
 - Reliable operation
 - Fully open source
 - Documented for anyone to build
+
+## Power Calculations
+| Item | Power Draw |
+| ------ | ------ |
+| PCB Bed Heater | 200w |
+| | 200w |
