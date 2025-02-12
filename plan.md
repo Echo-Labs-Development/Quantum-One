@@ -64,8 +64,13 @@ The Meteorite Toolhead is a custom toolhead designed
 
 ## Timeline
 Mar 1st - Finish Design
+
 Mar 16th - Start Build
+
 Apr 5th - Finish Build
+
 Apr 23rd - Finish Tuning
+
 May 2nd - Ship to RMRRF
+
 May 16th - Ship Myself to RMRRF
