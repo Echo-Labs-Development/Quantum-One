@@ -70,3 +70,14 @@ All Prices USD. Shiping and Tax Not Included
 
 ## Skirt (Unfinished)
 ![Half Finished Skirt](https://cloud-o589vt3c5-hack-club-bot.vercel.app/0screenshot_2025-02-03_at_9.30.14___pm.png)
+
+## Meteorite Toolhead
+The Meteorite Toolhead is a custom toolhead designed 
+
+## Timeline
+Mar 1st - Finish Design
+Mar 16th - Start Build
+Apr 5th - Finish Build
+Apr 23rd - Finish Tuning
+May 2nd - Ship to RMRRF
+May 16th - Ship Myself to RMRRF
