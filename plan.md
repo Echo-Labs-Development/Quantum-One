@@ -39,7 +39,7 @@ Total Hours: 42 Hours
 | 2.26.25 | 2 Hours |
 
 
-### Total Hours: 40 Hours
+### Total Hours: 42 Hours
 
 ## BOM
 [BOM.md](https://github.com/Echo-Labs-Development/Quantum-One/blob/8280ed5a5fece50f8bd1d9ca4763da4ab5bdc901/BOM.md)
