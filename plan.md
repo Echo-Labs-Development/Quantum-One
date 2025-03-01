@@ -37,7 +37,7 @@ Total Hours: 46 Hours
 | 2.24.25 | 2 Hours |
 | 2.25.25 | 2 Hours |
 | 2.26.25 | 2 Hours |
-| 2.27.25 | 4 Hours |
+| 2.28.25 | 4 Hours |
 
 
 ### Total Hours: 46 Hours
