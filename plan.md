@@ -49,6 +49,24 @@ Total Hours: 75 Hours
 | 3.30.25 | 6 Hours |
 | 4.3.25  | 3 Hours |
 
+## Design Milestones
+### Skirt
+2.1.25 - 2.8.25
+## Frame
+2.17.25 - 2.18.25
+
+## Gantry
+2.23.25 - 2.28.25
+
+### Toolhead
+3.3.25 - 3.19.25
+
+### Minor Fixes and Repositioning 
+3.19.25 - 3.29.25
+
+### Toolhead Redesign
+3.29.25 - 4.3.25
+
 ## Project Roadmap
 - [x] Create CAD Model
 - [ ] Obtain Funding
@@ -151,24 +169,3 @@ PCB Render
 
 PCB Layout
 ![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3e7ae3955bcd646e84b86e55afd00f0dd756e8b1_image.png)
-
-## Design Milestones
-### Skirt
-2.1.25 - 2.8.25
-## Frame
-2.17.25 - 2.18.25
-
-## Gantry
-2.23.25 - 2.28.25
-
-### Toolhead
-3.3.25 - 3.19.25
-
-### Minor Fixes and Repositioning 
-3.19.25 - 3.29.25
-
-### Toolhead Redesign
-3.29.25 - 4.3.25
-
-
-
