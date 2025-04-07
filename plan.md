@@ -1,4 +1,3 @@
-# Quantum One Design Journy
 ![Quantum One Logo](https://cloud-jb6ebx4e5-hack-club-bot.vercel.app/0untitled_presentation_11_.png)
 
 ## Project Information
@@ -27,31 +26,31 @@ Total Hours: 75 Hours
 - Klipper Powered
 
 ## Time Log
-| Date     | Time    |
-| -------- | ------- |
-| 2.1.25   | 2 Hours |
-| 2.2.25   | 4 Hours |
-| 2.3.25   | 5 Hours |
-| 2.5.25   | 1 Hours |
-| 2.8.25   | 6 Hours |
-| 2.17.25  | 6 Hours |
-| 2.18.25  | 4 Hours |
-| 2.23.25  | 5 Hours |
-| 2.24.25  | 2 Hours |
-| 2.25.25  | 2 Hours |
-| 2.26.25  | 2 Hours |
-| 2.28.25  | 4 Hours |
-| 3.3.25   | 2 Hours |
-| 3.8.25   | 5 Hours |
-| 3.18.25  | 6 Hours |
-| 3.19.25  | 4 Hours |
-| 3.28.25  | 4 Hours |
-| 3.29 .25 | 2 Hours |
-| 3.30.25  | 6 Hours |
-| 4.3.25   | 3 Hours |
+| Date    | Time    |
+| ------- | ------- |
+| 2.1.25  | 2 Hours |
+| 2.2.25  | 4 Hours |
+| 2.3.25  | 5 Hours |
+| 2.5.25  | 1 Hours |
+| 2.8.25  | 6 Hours |
+| 2.17.25 | 6 Hours |
+| 2.18.25 | 4 Hours |
+| 2.23.25 | 5 Hours |
+| 2.24.25 | 2 Hours |
+| 2.25.25 | 2 Hours |
+| 2.26.25 | 2 Hours |
+| 2.28.25 | 4 Hours |
+| 3.3.25  | 2 Hours |
+| 3.8.25  | 5 Hours |
+| 3.18.25 | 6 Hours |
+| 3.19.25 | 4 Hours |
+| 3.28.25 | 4 Hours |
+| 3.29.25 | 2 Hours |
+| 3.30.25 | 6 Hours |
+| 4.3.25  | 3 Hours |
 
 ## Project Roadmap
-- [X] Create CAD Model
+- [x] Create CAD Model
 - [ ] Obtain Funding
 - [ ] Order Parts
 - [ ] Assemble working machine
@@ -101,6 +100,14 @@ Total Hours: 75 Hours
 ### Rev 04
 ![M04](https://hc-cdn.hel1.your-objectstorage.com/s/v3/79140e19e96355a6cf991bf583c19a091d5182d9_screenshot_2025-02-28_at_9.05.44___pm.png)
 
+### Rev 05
+![M05](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ce067b1262b9c171ea1f6b02b687774325028253_image.png)
+
+### Why These Parts
+Orbitor 2 - From LDO comes with high quality steeper motor + all in one solution
+
+Triangle Labs CHC V6 - Had really high power heater plus is souposed to have higger flow rate then regular V6
+
 ## Project Timeline
 
 Mar 31st - Finish Design
@@ -118,8 +125,12 @@ May 16th - Ship Myself to RMRRF
 ## Featured Parts
 ### XY Stepper Mount
 ![XY Stepper Mount](https://cloud-4ai7mgw57-hack-club-bot.vercel.app/0image.png)
+
+Why Core-XY: I wanted to build a core xy because first of all they are really compact. Second I already own a bed slinger 3d printer. Also the belt routing really interested me.
 ### Power Supply Mount
 ![Power Supply](https://hc-cdn.hel1.your-objectstorage.com/s/v3/77ada97038b5bccfc86ac20b60b5c705fe3e4518_image.png)
+
+Changes: Had to move power supply out of the skirt to make space for Z steppers
 
 ## Spark Console
 
@@ -133,10 +144,31 @@ I din't want to have a big touchscreen in the center of the machine. I wanted to
 - 128x32 OLED
 
 Schematic
-![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/737992d6a0e4856cdc01f29359c125ef6db91d82_image.png)
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/737992d6a0e4856cdc01f29359c125ef6db91d82_image.png)
 
 PCB Render
-![PCB Render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cc9ca43c38eed016b07e75687806a1788278c46f_image.png)
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cc9ca43c38eed016b07e75687806a1788278c46f_image.png)
 
 PCB Layout
-![PCB Layout](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3e7ae3955bcd646e84b86e55afd00f0dd756e8b1_image.png)
+![Half Finished Skirt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3e7ae3955bcd646e84b86e55afd00f0dd756e8b1_image.png)
+
+## Design Milestones
+### Skirt
+2.1.25 - 2.8.25
+## Frame
+2.17.25 - 2.18.25
+
+## Gantry
+2.23.25 - 2.28.25
+
+### Toolhead
+3.3.25 - 3.19.25
+
+### Minor Fixes and Repositioning 
+3.19.25 - 3.29.25
+
+### Toolhead Redesign
+3.29.25 - 4.3.25
+
+
+
