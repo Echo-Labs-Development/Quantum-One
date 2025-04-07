@@ -25,6 +25,8 @@ Total Hours: 75 Hours
 - Core-XY
 - Klipper Powered
 
+
+
 ## Time Log
 | Date    | Time    |
 | ------- | ------- |
@@ -52,20 +54,42 @@ Total Hours: 75 Hours
 ## Design Milestones
 ### Skirt
 2.1.25 - 2.8.25
+- Made mounts for Pi 5 and BTT Octopus v1.1
+- Added builtin mounting for frame
+- Allowed screwing quarters together for smaller build volume
 ## Frame
 2.17.25 - 2.18.25
+- Attempted to add compatibility with enclosing in the future
+- Made out of 2020 aluminum extrusion
+- Made Sturdy and square
 
 ## Gantry
 2.23.25 - 2.28.25
+- Made Core-XY for faster print speeds
+- Used MGN12H Rails for decent strength with small form factor
+- Designed first revison of the toolhead
 
 ### Toolhead
 3.3.25 - 3.19.25
+- Designed toolhead revisions 2 - 4
+- Repositioned hotend for more z hight
 
 ### Minor Fixes and Repositioning 
 3.19.25 - 3.29.25
+- Added Z Axis
+- Design Bed Mount
+- Moved Power Supply to Back
 
 ### Toolhead Redesign
 3.29.25 - 4.3.25
+- Fixed Cooling Ducts
+- Repositioned Fans
+- Made slimmer form factor
+### Documentation
+4.3.25 - Present
+- Rewrote Journal
+- Made Documentation more clear
+- Wrote BOM
 
 ## Project Roadmap
 - [x] Create CAD Model
