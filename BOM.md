@@ -44,4 +44,4 @@
 | M4x12   | EDLA-S1-M4-L12   | 50          | $0.44       |
 | M4 Nut  | TPBB-N-10-M4     | 50          | $0.99       |
 
-# Total Cost ~ $320.88
+# Total Cost ~ $339.41
